@@ -1,0 +1,5 @@
+sambaedu-sysresccd (0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <franck.molle@ac-rouen.fr>  Thu, 11 May 2017 22:36:45 +0200
